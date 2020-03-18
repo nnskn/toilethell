@@ -1,7 +1,7 @@
 {
 "companyName": "nnskn",
 "productName": "Toilet Hell",
-"productVersion": "0.1",
+"productVersion": "1.2",
 "dataUrl": "Toilet-Hell.data.unityweb",
 "wasmCodeUrl": "Toilet-Hell.wasm.code.unityweb",
 "wasmFrameworkUrl": "Toilet-Hell.wasm.framework.unityweb",
